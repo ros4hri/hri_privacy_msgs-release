@@ -1,0 +1,17 @@
+ros-humble-privacy-msgs (1.1.0-1jammy) jammy; urgency=high
+
+  * {privacy_centre -> privacy_msgs}
+  * [doc] cleanup README
+  * Contributors: Séverin Lemaignan
+
+ -- Séverin Lemaignan <severin.lemaignan@pal-robotics.com>  Sun, 15 Sep 2024 22:00:00 -0000
+
+ros-humble-privacy-msgs (1.0.0-1jammy) jammy; urgency=high
+
+  * {SensitiveData->PersonalDataProcessor}
+  * initial commit of privacy_msgs
+  * Contributors: Séverin Lemaignan
+
+ -- Séverin Lemaignan <severin.lemaignan@pal-robotics.com>  Thu, 15 Feb 2024 23:00:00 -0000
+
+
