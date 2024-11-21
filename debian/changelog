@@ -1,0 +1,25 @@
+ros-humble-hri-privacy-msgs (1.2.0-1jammy) jammy; urgency=high
+
+  * rename to hri_privacy_msgs
+    To comply with ROS's REP-144 on naming criteria, as suggested in https://github.com/ros/rosdistro/pull/42868
+  * Contributors: Séverin Lemaignan
+
+ -- Séverin Lemaignan <severin.lemaignan@pal-robotics.com>  Mon, 18 Nov 2024 23:00:00 -0000
+
+ros-humble-hri-privacy-msgs (1.1.0-1jammy) jammy; urgency=high
+
+  * {privacy_centre -> privacy_msgs}
+  * [doc] cleanup README
+  * Contributors: Séverin Lemaignan
+
+ -- Séverin Lemaignan <severin.lemaignan@pal-robotics.com>  Sun, 15 Sep 2024 22:00:00 -0000
+
+ros-humble-hri-privacy-msgs (1.0.0-1jammy) jammy; urgency=high
+
+  * {SensitiveData->PersonalDataProcessor}
+  * initial commit of privacy_msgs
+  * Contributors: Séverin Lemaignan
+
+ -- Séverin Lemaignan <severin.lemaignan@pal-robotics.com>  Thu, 15 Feb 2024 23:00:00 -0000
+
+
